@@ -1,3 +1,3 @@
-My Personal Github Hosted Portfolio Website.
+Portfolio Website Template 
 
 Languages Used - HTML, CSS. 
